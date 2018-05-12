@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '42591'
     url: http://www.gutenberg.org/2009/agents/42591
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44122#Silver-Chimes-in-SyriaGlimpses-of-a-Missionary-s-Experiences
 gutenberg_issued: '2013-11-07'
 gutenberg_type: Text
 identifiers:
